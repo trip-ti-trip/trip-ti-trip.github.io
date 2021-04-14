@@ -1,7 +1,7 @@
 # Site settings
 title:          "Tripti Tale"
 description:    ""
-# baseurl:        "/tale"
+baseurl:        "/"
 url:            "https://trip-ti-trip.github.io"
 
 # Google Analytics
