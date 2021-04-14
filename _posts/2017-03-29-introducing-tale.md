@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title:  "निबन्ध "
+author: "तृप्ति मिश्रा"
 comments: true
-tags: Tale
+tags: haiku
 ---
 
-Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
+लेकिन इस शब्द का प्रयोग किसी विषय की तार्किक और बौद्धिक विवेचना करने वाले लेखों के लिए भी किया जाता है। निबंध के पर्याय रूप में सन्दर्भ, रचना और प्रस्ताव का भी उल्लेख किया जाता है
+
 
 ## Tale features
 - Compatible with GitHub Pages
