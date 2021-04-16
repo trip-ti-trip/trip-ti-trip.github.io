@@ -2,7 +2,6 @@
 layout: post
 title:  "जीवन साथी"
 author: "तृप्ति मिश्रा"
-comments: true
 tags: कविता
 ---
 
