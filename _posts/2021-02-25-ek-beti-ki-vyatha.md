@@ -1,6 +1,6 @@
 ---
 layout: post
-title:एक बेटी की व्यथा  
+title: एक बेटी की व्यथा  
 author: तृप्ति मिश्रा
 tags: कविता 
 ---
